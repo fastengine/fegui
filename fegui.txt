@@ -1,0 +1,15 @@
+Fast Engine Graphical User Interface (F.E.G.U.I)
+This feature is a part of FastEngine
+by Mario Freire
+Copyright (C) 2012 DSP Interactive. All rights reserved.
+Development Systems and Programs
+See more information in the website: http://www.dspinteractive.com
+
+
+O FEGUI ( Fast Engine Graphical User Interface ) é uma biblioteca que disponibiliza recursos gráficos como Widgets, janelas, botões, controles, componentes gráficos, mostrar imagens, criar área de trabalho e muitos outros recursos gráficos.
+Os recursos FEGUI ( Fast Engine Graphical User Interface ) traduzindo em português como "Interface gráfica de usuário do Fast Engine" vai trazer novos recursos para o jogo.
+Janelas com viewports podem ser abertas simultaneamente.
+Depurador de núcleo poderá resolver problemas com erros ocorridos durante a execução do programa.
+O relatório de erros mostra detalhes da exceção ocorrida durante a violação de acesso ou outro tipo de erro causado.
+O console do jogo será nada mais do que um shell ( Terminal ), onde digita os comandos.
+O HUD ( Head Up Display ) será baseado em widgets, formando janelas de fundos do jogo. Irá ficar visivel sobre a janela do jogo.
